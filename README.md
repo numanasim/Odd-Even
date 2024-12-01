@@ -1,1 +1,1 @@
-Simple projects using python programming.
+Simple projects using Python programming.
